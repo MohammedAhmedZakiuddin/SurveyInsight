@@ -1,0 +1,17 @@
+﻿@page 
+@model SurveyAnalysis.Pages.Master.IndexModel
+@{
+    ViewData["Title"] = "Check";
+}
+
+<h2>@Model.Country_Survey.cName_E</h2>
+
+<div>
+    Name_E: @Model.Country_Survey.cName_E
+</div>
+
+<div>
+    Name_A: @Model.Country_Survey.cName_A
+</div>
+
+<a asp-page="./Country" class="btn btn-default">All Employees</a>

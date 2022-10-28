@@ -1,0 +1,13 @@
+﻿@page "{countryId}"
+@model SurveyAnalysis.Pages.Master.Delete_CountryModel
+@{
+}
+
+<h2> Delete!</h2>
+<div class="alert alert-danger">
+    Are you sure you want to delete @Model.Country_Survey.cName_E?
+</div>
+<form method="post">
+    <button type="submit" class="btn btn-danger">Yes!</button>
+    <a asp-page="Country" class="btn btn-default">Cancel</a>
+</form>

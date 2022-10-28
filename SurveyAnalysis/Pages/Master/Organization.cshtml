@@ -1,0 +1,74 @@
+﻿@page
+@model SurveyAnalysis.Pages.Master.OrganizationModel
+@{
+}
+
+<h1>Organization Details</h1>
+
+<form method="get">
+    <div class=" form-group">
+        <div class=" input-group">
+            <input type="search" class=" form-control"
+                   asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class=" btn btn-default">
+                    <i class=" glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+
+<table class="table">
+    <tr>
+        <th>Code</th>
+        <th>Name (English)</th>
+        <th>Name (Arabic)</th>
+        <th>Our Partners</th>
+        <th>Edit | Delete</th>
+    </tr>
+
+
+    @foreach (var organization_Survey in Model.Organizations)
+    {
+        <tr>
+            <td>@organization_Survey.orgCode</td>
+            <td>@organization_Survey.orgName_E</td>
+            <td>@organization_Survey.orgName_A</td>
+            <td>@organization_Survey.partner</td>
+
+            <td>
+                <a class="btn btn-lg"
+                   asp-page="./Edit_Organization"
+                   asp-route-organizationId="@organization_Survey.Id">
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+                <a class="btn btn-lg"
+                   asp-page="./Delete_Organization"
+                   asp-route-organizationId="@organization_Survey.Id">
+                    <i class="glyphicon glyphicon-trash"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+<div>
+    <div class="alert alert-info">@Model.Message</div>
+</div>
+
+@if (Model.Message_2 != null)
+{
+    <div class="alert alert-success">@Model.Message_2</div>
+}
+
+@if (Model.Message_D != null)
+{
+    <div class="alert alert-success">@Model.Message_D</div>
+}
+
+
+
+<a asp-page=".\Edit_Organization" class="btn btn-primary">Add New</a>

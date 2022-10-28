@@ -1,0 +1,62 @@
+﻿@page "{employeeId:int?}"
+@model SurveyAnalysis.Pages.Master.Edit_EmployeeModel
+@{
+}
+
+<h2>Editing @Model.Employee_Survey.EmpName_E</h2>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Employee_Survey.Id" />
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.EmpNo"></label>
+        <input asp-for="Employee_Survey.EmpNo" class="form-control" />
+        <span class="text-danger" asp-validation-for="Employee_Survey.EmpNo"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.EmpName_E"></label>
+        <input asp-for="Employee_Survey.EmpName_E" class="form-control" />
+        <span class="text-danger" asp-validation-for="Employee_Survey.EmpName_E"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.EmpName_A"></label>
+        <input asp-for="Employee_Survey.EmpName_A" class="form-control" />
+        <span class="text-danger" asp-validation-for="Employee_Survey.EmpName_A"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.EmpEmail"></label>
+        <input asp-for="Employee_Survey.EmpEmail" class="form-control" />
+        <span class="text-danger" asp-validation-for="Employee_Survey.EmpEmail"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.EmpNetID"></label>
+        <select class="form-control" asp-for="Employee_Survey.EmpNetID"
+                asp-items="Model.EmpIds">
+        </select>
+        <span class="text-danger" asp-validation-for="Employee_Survey.EmpNetID"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.ManagerID"></label>
+        <select class="form-control" asp-for="Employee_Survey.ManagerID"
+                asp-items="Model.ManagerIDs">
+        </select>
+        <span class="text-danger" asp-validation-for="Employee_Survey.ManagerID"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employee_Survey.OrgId"></label>
+        <select class="form-control" asp-for="Employee_Survey.OrgId"
+                asp-items="Model.EmpOrdIDs">
+        </select>
+        <span class="text-danger" asp-validation-for="Employee_Survey.OrgId"></span>
+    </div>
+
+    <button type="submit" class="btn-btn-primary"> Save</button>
+
+</form>

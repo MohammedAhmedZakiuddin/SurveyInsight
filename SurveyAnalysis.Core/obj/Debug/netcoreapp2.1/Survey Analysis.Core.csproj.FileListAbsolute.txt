@@ -1,0 +1,10 @@
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\bin\Debug\netcoreapp2.1\Survey Analysis.Core.deps.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\bin\Debug\netcoreapp2.1\Survey Analysis.Core.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\bin\Debug\netcoreapp2.1\Survey Analysis.Core.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.csproj.AssemblyReference.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.AssemblyInfoInputs.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.AssemblyInfo.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Core\obj\Debug\netcoreapp2.1\Survey Analysis.Core.pdb

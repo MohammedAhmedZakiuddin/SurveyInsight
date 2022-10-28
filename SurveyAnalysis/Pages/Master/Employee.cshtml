@@ -1,0 +1,74 @@
+﻿@page
+@model SurveyAnalysis.Pages.Master.EmployeeModel
+@{
+}
+
+<h1>Employee Details</h1>
+
+<form method="get">
+    <div class=" form-group">
+        <div class=" input-group">
+            <input type="search" class=" form-control"
+                   asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class=" btn btn-default">
+                    <i class=" glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <tr>
+        <th>Number</th>
+        <th>Name (English)</th>
+        <th>Name (Arabic)</th>
+        <th>Email</th>
+        <th>Organization</th>
+        <th>Manager</th>
+        <th>Nationality</th>
+        <th>Edit | Delete</th>
+    </tr>
+
+
+    @foreach (var employee_Survey in Model.EmployeeList)
+    {
+        <tr>
+            <td>@employee_Survey.EmpNo</td>
+            <td>@employee_Survey.EmpName_E</td>
+            <td>@employee_Survey.EmpName_A</td>
+            <td>@employee_Survey.EmpEmail</td>
+            <td>@employee_Survey.Organization</td>
+            <td>@employee_Survey.Manager</td>
+            <td>@employee_Survey.Nationality</td>
+
+
+            <td>
+                <a class="btn btn-lg"
+                   asp-page="./Edit_Employee"
+                   asp-route-EmployeeId="@employee_Survey.Id">
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+                <a class="btn btn-lg"
+                   asp-page="./Delete_Employee"
+                   asp-route-EmployeeId="@employee_Survey.Id">
+                    <i class="glyphicon glyphicon-trash"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-success">@Model.Message</div>
+}
+
+@if (Model.Message_D != null)
+{
+    <div class="alert alert-success">@Model.Message_D</div>
+}
+
+<a asp-page=".\Edit_Employee" class="btn btn-primary">Add New</a>

@@ -1,0 +1,13 @@
+﻿@page "{OrganizationId}"
+@model SurveyAnalysis.Pages.Master.Delete_OrganizationModel
+@{
+}
+
+<h2> Delete!</h2>
+<div class="alert alert-danger">
+    Are you sure you want to delete @Model.Organization_Survey.orgName_E?
+</div>
+<form method="post">
+    <button type="submit" class="btn btn-danger">Yes!</button>
+    <a asp-page="Organization" class="btn btn-default">Cancel</a>
+</form>

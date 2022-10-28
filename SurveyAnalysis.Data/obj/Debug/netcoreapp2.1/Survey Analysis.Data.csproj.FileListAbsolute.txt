@@ -1,0 +1,16 @@
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Data.deps.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Data.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Data.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Core.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Core.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.csproj.AssemblyReference.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.AssemblyInfoInputs.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.AssemblyInfo.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.csproj.CopyComplete
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Data.runtimeconfig.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\bin\Debug\netcoreapp2.1\Survey Analysis.Data.runtimeconfig.dev.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis.Data\obj\Debug\netcoreapp2.1\Survey Analysis.Data.genruntimeconfig.cache

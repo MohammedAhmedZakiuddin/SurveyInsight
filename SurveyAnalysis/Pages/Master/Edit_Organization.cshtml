@@ -1,0 +1,39 @@
+﻿@page "{organizationId:int?}"
+@model SurveyAnalysis.Pages.Master.Edit_OrganizationModel
+@{
+}
+
+<h2>@Model.Message_3</h2>
+<h2>@Model.Message_4</h2> 
+
+<form method="post">
+
+    <input type="hidden" asp-for="Organization_Survey.Id" />
+
+    <div class="form-group">
+        <label asp-for="Organization_Survey.orgCode"></label>
+        <input asp-for="Organization_Survey.orgCode" class="form-control" />
+        <span class="text-danger" asp-validation-for="Organization_Survey.orgCode"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Organization_Survey.orgName_E"></label>
+        <input asp-for="Organization_Survey.orgName_E" class="form-control" />
+        <span class="text-danger" asp-validation-for="Organization_Survey.orgName_E"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Organization_Survey.orgName_A"></label>
+        <input asp-for="Organization_Survey.orgName_A" class="form-control" />
+        <span class="text-danger" asp-validation-for="Organization_Survey.orgName_A"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Organization_Survey.partner"></label>
+        <input asp-for="Organization_Survey.partner" class="form-control" />
+        <span class="text-danger" asp-validation-for="Organization_Survey.partner"></span>
+    </div>
+
+    <button type="submit" class="btn-btn-primary"> Save</button>
+
+</form>

@@ -1,0 +1,73 @@
+﻿@page
+@model SurveyAnalysis.Pages.Master.CountryModel
+@{
+}
+
+<h1>Country</h1>
+
+<form method="get">
+    <div class=" form-group">
+        <div class=" input-group">
+            <input type="search" class=" form-control"
+                   asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class=" btn btn-default">
+                    <i class=" glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+
+
+<table class="table">
+    <tr>
+        <th>Country Code</th>
+        <th>Name (English)</th>
+        <th>Name (Arabic)</th>
+        <th>Nationality (English)</th>
+        <th>Nationality (Arabic)</th>
+        <th>Edit | Delete </th>
+    </tr>
+    @foreach (var Country_Survey in Model.Countries)
+    {
+        <tr>
+            <td>@Country_Survey.cCode</td>
+            <td>@Country_Survey.cName_E</td>
+            <td>@Country_Survey.cName_A</td>
+            <td>@Country_Survey.cNationality_E</td>
+            <td>@Country_Survey.cNationality_A</td>
+
+            <td>
+                <a class="btn btn-lg"
+                   asp-page="./Edit_Country"
+                   asp-route-CountryId="@Country_Survey.Id">
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+                <a class="btn btn-lg"
+                   asp-page="./Delete_Country"
+                   asp-route-CountryId="@Country_Survey.Id">
+                    <i class="glyphicon glyphicon-trash"></i>
+                </a>
+
+            </td>
+        </tr>
+    }
+</table>
+
+@if (Model.Message_2 != null)
+{
+    <div class="alert alert-success">@Model.Message_2</div>
+}
+
+
+@if (Model.Message_D != null)
+{
+    <div class="alert alert-success">@Model.Message_D</div>
+}
+
+<a asp-page=".\Edit_Country" class="btn btn-primary">Add New</a>
+
+
+

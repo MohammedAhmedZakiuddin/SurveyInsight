@@ -1,0 +1,44 @@
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.deps.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.runtimeconfig.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.runtimeconfig.dev.json
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.Views.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.Views.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.csproj.AssemblyReference.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.AssemblyInfoInputs.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.AssemblyInfo.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.RazorAssemblyInfo.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.RazorAssemblyInfo.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.TagHelpers.input.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.TagHelpers.output.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.RazorCoreGenerate.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.RazorTargetAssemblyInfo.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.Views.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.genruntimeconfig.cache
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Survey Analysis.csproj.CopyComplete
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Master\Country.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.Core.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.Core.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.Data.dll
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\bin\Debug\netcoreapp2.1\Survey Analysis.Data.pdb
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Master\NotFound.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Master\Edit_Country.cshtml.g.cs
+C:\Users\Mohammed Ahmed Zaki\source\repos\Survey Analysis\Survey Analysis\obj\Debug\netcoreapp2.1\Razor\Pages\Master\Index.cshtml.g.cs
